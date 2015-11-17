@@ -462,8 +462,6 @@ Available IP Telephony
 			<creation-date>2015-11-13 15:25:53 GMT+0400</creation-date>
 			<salary>999999</salary>
                      
-                        <campaign>abcdef</campaign>
-
 			<category>
 				<industry>IT-технологии</industry>
 				<specialization>Менеджер по развитию, Аккаунт-менеджер, Менеджер по продажам</specialization>
@@ -543,6 +541,8 @@ Available IP Telephony
 				<name/>
 				<hr-agency>false</hr-agency>
 			</company>
+
+                        <campaign>ABC-1234</campaign>
 		</vacancy>
 		<vacancy>
 			<url>itmozg.ru/vacancy/show/233733</url>
