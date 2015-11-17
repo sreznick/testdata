@@ -460,7 +460,10 @@ Available IP Telephony
 		<vacancy>
 			<url>itmozg.ru/vacancy/show/233734</url>
 			<creation-date>2015-11-13 15:25:53 GMT+0400</creation-date>
-			<salary>от 50000 </salary>
+			<salary>999999</salary>
+                     
+                        <campaign-id>abcdef</campaign-id>
+
 			<category>
 				<industry>IT-технологии</industry>
 				<specialization>Менеджер по развитию, Аккаунт-менеджер, Менеджер по продажам</specialization>
