@@ -544,10 +544,11 @@ Available IP Telephony
 
                         <campaign>ABC-1234</campaign>
 		</vacancy>
+
 		<vacancy>
 			<url>itmozg.ru/vacancy/show/233733</url>
 			<creation-date>2015-11-13 15:25:27 GMT+0400</creation-date>
-			<salary>от 50000 </salary>
+			<salary>999998</salary>
 			<category>
 				<industry>IT-технологии</industry>
 				<specialization>Менеджер по развитию, Аккаунт-менеджер, Менеджер по продажам</specialization>
@@ -627,6 +628,9 @@ Available IP Telephony
 				<name/>
 				<hr-agency>false</hr-agency>
 			</company>
+
+                        <campaign>1fcc70a6-95b3-4007-a4f3-bf5cfd8f7f3d</campaign>
+
 		</vacancy>
 		<vacancy>
 			<url>itmozg.ru/vacancy/show/233732</url>
